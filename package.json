@@ -1,7 +1,7 @@
 {
-  "name": "vvinhas-react-series",
+  "name": "react",
   "version": "0.0.0",
-  "description": "Provides a basic structure to follow the v++ channel React series.",
+  "description": "",
   "main": "src/app.js",
   "dependencies": {
     "babel-core": "^6.22.1",
