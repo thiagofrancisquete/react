@@ -1,1 +1,0 @@
-# Projeto para estudos, conceitos iniciais de React e Redeux
