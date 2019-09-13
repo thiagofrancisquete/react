@@ -1,7 +1,12 @@
 body {
   padding: 30px;
+  background-color: crimson;
 }
 
 .App {
   text-align: center;
+}
+
+.App h1 {
+  color: #999;
 }
