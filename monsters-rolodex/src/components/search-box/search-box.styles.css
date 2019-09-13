@@ -1,9 +1,29 @@
 .search-box {
   -webkit-appearance: none;
   border: none;
+  border-bottom: 2px solid #999;
+  color: #f6fa22;
   outline: none;
   padding: 10px;
   width: 150px;
   line-height: 30px;
   margin-bottom: 30px;
+  background-color: transparent;
+  width: 50vw;
+}
+
+::-webkit-input-placeholder {
+  color: #f6fa22;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  color: #f6fa22;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+  color: #f6fa22;  
+}
+
+:-ms-input-placeholder {  
+  color: #f6fa22;  
 }
